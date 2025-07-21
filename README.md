@@ -52,10 +52,10 @@ Prerequisites
 
 First, clone this GitHub repository to your local machine:
 
-git clone https://github.com/your-username/secure-share-platform.git
+git clone https://github.com/Ayushk3110/Secure-File-Sharing-Platform.git
 cd secure-share-platform
 
-(Note: Replace your-username/secure-share-platform with the actual path to your repository if you fork it.)
+
 2. Create and Activate a Virtual Environment
 
 It's highly recommended to use a virtual environment to manage project dependencies.
